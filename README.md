@@ -1,6 +1,6 @@
 # Hi, I'm Hani 👋
 
-**Computer Programming & Analysis (co-op)** student at Fanshawe College in London, Ontario. I build practical, shippable software across the full stack and I'm currently going deep on cloud and DevOps with AWS.
+I am a **Computer Programming & Analysis (co-op)** student at Fanshawe College in London, Ontario. I build practical, shippable software across the full stack and I'm currently going deep on cloud and DevOps with AWS.
 
 - 🎯 Seeking an **IT support / software development co-op** placement
 - 🛠️ Comfortable end-to-end: frontend, backend, APIs, databases, deployment
