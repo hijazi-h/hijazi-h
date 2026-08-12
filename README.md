@@ -1,6 +1,6 @@
 # Hi, I'm Hani 👋
 
-Computer Programming & Analysis student at Fanshawe College in London, Ontario. I build full stack applications end to end: frontend, REST APIs, relational databases, and deployment. Most of my recent work is in C# and Java, with TypeScript and React on the front end.
+I am a Computer Programming & Analysis student at Fanshawe College in London, Ontario. I build full stack applications end to end: frontend, REST APIs, relational databases, and deployment. Most of my recent work is in C# and Java, with TypeScript and React on the front end.
 
 - Comfortable across the stack: UI, API design, data modelling, deployment
 - Portfolio: **[hhijazi.dev](https://hhijazi.dev)**
