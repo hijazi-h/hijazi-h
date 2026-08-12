@@ -32,4 +32,4 @@ Computer Programming & Analysis student at Fanshawe College in London, Ontario. 
 ## Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hhijazi.dev-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://hhijazi.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hani-hijazi/)****
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hani-hijazi/)
