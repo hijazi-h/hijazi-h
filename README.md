@@ -1,4 +1,4 @@
-# Hi, I'm Hani 👋
+# Hi, I'm Hani
 
 I build full stack applications end to end: frontend, REST APIs, relational databases, and deployment. Most of my recent work is in C# and Java, with TypeScript and React on the front end.
 
